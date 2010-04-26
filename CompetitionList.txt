@@ -1,0 +1,53 @@
+Companies to Watch for Firworks
+=======
+Competitive Analysis
+-------
+
+
+***Key*** 
+
+---------
+***Company Name (and website)***
+
+>**/Type of Product/ [name of product if applicable] (website of product if applicable)**
+>
+>>Description of Product
+
+---------
+
+***Akshell (http://www.akshell.com)***
+
+>**/Platform/**
+
+>>Akshell is a tool for developing and an environment for hosting web applications at the same time.  It’s designed to facilitate the whole process of web development from creating a prototype to supporting a production version. Web apps are hosted on a Relational DB.
+
+
+***Adobe (www.adobe.com)***
+
+>**/SDK/ [Creative Suite 5] (http://cs5launch.adobe.com/)**
+
+>>This is the range of Adobe products. The applications of CS5 is to extensive to list here. Although Air and Flash are our closest competitor, being a web app development tool.  It is a very mature suite of software, with a large and loyal user base.
+
+***Moodle (http://www.moodle.org)***
+
+>**/Software/**
+
+>>Moodle is an Open Source Course Management System (CMS), also known as a Learning Management System (LMS) or a Virtual Learning Environment (VLE). It has become very popular among educators around the world as a tool for creating online dynamic web sites for their students. To work, it needs to be installed on a web server somewhere, either on one of your own computers or one at a web hosting company. It has an open API.
+
+***WorkXpress (http://www.workxpress.com)***
+
+>**/Platform/**
+
+>>WorkXpress is a platform for businesses, Value Added Resellers, Indpendent Software Vendors to build and deploy web apps. Its core product is their platform that boasts a 5th Generation Development Language.  This means there is no need to know how to program in order to create web apps.  The platform can produce any type of app on a relational DB for business solutions.
+
+***Balsamiq (http://www.balsamiq.com)***
+
+>**/Software/ [Mockup] (http://www.balsamiq.com/products/mockups)**
+
+>>Balsamiq's core product is their Mockup application.  It is an application that software designers could use to create a mockup of the software they are looking to program before they start programing it. This might be a good tool for us in the near future.
+
+>**/Platform/ [Web Office] (http://www.balsamiq.com/weboffice)**
+
+>>This product does not exist yet in the open market.  As is described on the website, they are trying to develop what Kixx is, but they have to face the hurdles that Kixx faced.  Keep an eye on this.
+
+Change
